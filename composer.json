@@ -1,4 +1,8 @@
 {
+    "name": "rsoury/aws-for-wordpress",
+    "description": "AWS for WordPress plugin",
+	"homepage": "https://github.com/rsoury/aws-for-wordpress",
+    "type": "wordpress-plugin",
     "require": {
         "aws/aws-sdk-php": "3.*"
     }

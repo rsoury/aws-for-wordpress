@@ -3,6 +3,7 @@
     "description": "AWS for WordPress plugin",
 	"homepage": "https://github.com/rsoury/aws-for-wordpress",
     "type": "wordpress-plugin",
+    "license": "GPL-3.0",
     "require": {
         "aws/aws-sdk-php": "3.*"
     }
